@@ -3,3 +3,8 @@ git add . # makes al files staged
 git commit -m # commits all files which are staged
 git push origin master # brings the file from local machine to github database
 ls -la ~/.ssh | grep 'id_rsa',ssh-keygen -t RSA # these to commands to generate ssh key
+
+# summary 
+
+i didnt learn anything from ta's i had to do on my own
+
