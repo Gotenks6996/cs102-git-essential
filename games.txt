@@ -2,4 +2,6 @@ nfs
 gta5
 rdr2
 watch dogs 2
+bgmi 
+call of duty 
 
